@@ -41,8 +41,9 @@ class ObjDemo implements Serializable{
 	 System.out.println(t1.y);
 		System.out.println(t1.b);
 
-  }catch(Exception tt){v b.
-	  System.out.println(tt);
+  }catch(Exception tt){
+	
+	System.out.println(tt);
   }	  
   }
   
